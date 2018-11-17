@@ -1,13 +1,13 @@
 ```
 unzip the folder
 
-create a table in database named `react-assignment`
+create a table in database named : react-assignment
 
  run
  php artisan migrate
  then run 
- `php artisan serve`
+ ```php artisan serve```
  this will run  the application at port 
- `http:\\locahost:8000`
+ ```http:\\locahost:8000```
  ```
  
